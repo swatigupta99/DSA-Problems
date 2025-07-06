@@ -1,5 +1,5 @@
-## 🧠 Problem: Binary Search (LeetCode #704)
-**Difficulty:** Easy  
+## 🧠 Problem: Set Matrix Zeroes(Problem #73)
+**Difficulty:** Medium
 **Link:** [https://leetcode.com/problems/set-matrix-zeroes/description/]
 
 
