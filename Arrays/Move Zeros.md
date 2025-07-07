@@ -1,5 +1,5 @@
 🧠 Problem: Move Zeros (Problem #283)
-Difficulty: Medium Link: [https://leetcode.com/problems/set-matrix-zeroes/description/]
+Difficulty: Medium Link: [https://leetcode.com/problems/move-zeroes/description/]
 
 ❓ Problem Statement:
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
